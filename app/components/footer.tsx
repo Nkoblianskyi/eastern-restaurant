@@ -1,5 +1,6 @@
 import Link from "next/link"
 import { MapPin } from "lucide-react"
+import Image from "next/image"
 
 export default function Footer() {
   return (
@@ -9,7 +10,7 @@ export default function Footer() {
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center space-x-3 mb-4">
               <div className="w-10 h-10 bg-gradient-to-br from-emerald-500 to-emerald-700 rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold">H</span>
+                <Image src="/favicon.ico" alt="Logo" width={32} height={32} />
               </div>
               <span className="text-2xl font-bold text-emerald-400">Hyperswap</span>
             </div>
