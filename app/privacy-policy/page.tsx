@@ -14,7 +14,7 @@ export default function PrivacyPolicyPage() {
             </div>
             <h1 className="text-5xl font-bold text-slate-900 mb-6">Privacy Policy</h1>
             <p className="text-xl text-slate-600 max-w-3xl mx-auto leading-relaxed">
-              Your privacy is important to us. Learn how we collect, use, and protect your information at Hyperswap.
+              Your privacy is important to us. Learn how we collect, use, and protect your information at HyperLiquid.
             </p>
           </div>
         </div>
@@ -131,7 +131,7 @@ export default function PrivacyPolicyPage() {
                 </p>
                 <div className="bg-slate-50 p-6 rounded-xl">
                   <p className="text-slate-600 leading-relaxed">
-                    <strong className="text-slate-900">Hyperswap Restaurant</strong>
+                    <strong className="text-slate-900">HyperLiquid Restaurant</strong>
                     <br />
                     Shopping Center Wijnegem
                     <br />

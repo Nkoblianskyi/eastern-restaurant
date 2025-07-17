@@ -14,7 +14,7 @@ export default function CookiePolicyPage() {
             </div>
             <h1 className="text-5xl font-bold text-slate-900 mb-6">Cookie Policy</h1>
             <p className="text-xl text-slate-600 max-w-3xl mx-auto leading-relaxed">
-              Learn about how Hyperswap uses cookies to enhance your browsing experience and protect your privacy.
+              Learn about how HyperLiquid uses cookies to enhance your browsing experience and protect your privacy.
             </p>
           </div>
         </div>

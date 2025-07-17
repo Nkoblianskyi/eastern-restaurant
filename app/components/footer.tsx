@@ -12,7 +12,7 @@ export default function Footer() {
               <div className="w-10 h-10 bg-gradient-to-br from-emerald-500 to-emerald-700 rounded-lg flex items-center justify-center">
                 <Image src="/favicon.ico" alt="Logo" width={32} height={32} />
               </div>
-              <span className="text-2xl font-bold text-emerald-400">Hyperswap</span>
+              <span className="text-2xl font-bold text-emerald-400">HyperLiquid</span>
             </div>
             <p className="text-slate-300 mb-4 leading-relaxed">
               Authentic Eastern cuisine in the heart of Belgium. Experience traditional flavors with a modern twist in
@@ -71,7 +71,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-slate-800 mt-8 pt-8 text-center">
-          <p className="text-slate-400">© {new Date().getFullYear()} Hyperswap Restaurant. All rights reserved.</p>
+          <p className="text-slate-400">© {new Date().getFullYear()} HyperLiquid Restaurant. All rights reserved.</p>
         </div>
       </div>
     </footer>

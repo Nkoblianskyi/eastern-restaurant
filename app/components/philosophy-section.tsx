@@ -7,7 +7,7 @@ export default function PhilosophySection() {
       <div className="text-center mb-12">
         <h3 className="text-3xl font-bold text-slate-900 mb-4">Our Philosophy</h3>
         <p className="text-lg text-slate-600 max-w-3xl mx-auto">
-          At Hyperswap, we believe that food is more than sustenance—it's a bridge between cultures, a celebration of
+          At HyperLiquid, we believe that food is more than sustenance—it's a bridge between cultures, a celebration of
           tradition, and a way to bring people together.
         </p>
       </div>

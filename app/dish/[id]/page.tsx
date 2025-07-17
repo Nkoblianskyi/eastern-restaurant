@@ -106,13 +106,6 @@ export default function DishPage({ params }: { params: { id: string } }) {
                   <ArrowRight className="w-5 h-5" />
                 </Link>
               </Button>
-              <Button
-                variant="outline"
-                size="lg"
-                className="px-6 py-4 rounded-full border-emerald-300 text-emerald-700 hover:bg-emerald-50 bg-transparent"
-              >
-                Share
-              </Button>
             </div>
           </div>
         </div>

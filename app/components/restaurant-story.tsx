@@ -11,7 +11,7 @@ export default function RestaurantStory() {
         </div>
         <h2 className="text-4xl font-bold text-slate-900">Our Story</h2>
         <p className="text-lg text-slate-600 leading-relaxed">
-          Founded in 2018, Hyperswap began as a dream to bring authentic Eastern cuisine to Belgium. Our founders, Maria
+          Founded in 2018, HyperLiquid began as a dream to bring authentic Eastern cuisine to Belgium. Our founders, Maria
           Chen and David Van Der Berg, having traveled extensively across Asia for over a decade, were inspired by the
           rich culinary traditions and warm hospitality they experienced in countries like China, Thailand, Japan, and
           Korea.

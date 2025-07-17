@@ -49,9 +49,9 @@ export default function AboutPage() {
                 ></svg>
                 Est. 2025 • Award-Winning Cuisine
               </div>
-              <h1 className="text-5xl font-bold text-slate-900 leading-tight">About Hyperswap</h1>
+              <h1 className="text-5xl font-bold text-slate-900 leading-tight">About HyperLiquid</h1>
               <p className="text-xl text-slate-600 leading-relaxed">
-                Welcome to Hyperswap, where the rich culinary traditions of the East meet the warm hospitality of
+                Welcome to HyperLiquid, where the rich culinary traditions of the East meet the warm hospitality of
                 Belgium. Located in the heart of Wijnegem Shopping Center, we have been serving authentic Eastern
                 cuisine since 2025.
               </p>
@@ -69,7 +69,7 @@ export default function AboutPage() {
               <div className="relative w-full h-[500px] rounded-2xl overflow-hidden shadow-xl">
                 <Image
                   src="/6c3b53de32c34246e656ebd1d243048b.jpg"
-                  alt="Hyperswap Restaurant Interior"
+                  alt="HyperLiquid Restaurant Interior"
                   fill
                   className="object-cover"
                 />
@@ -85,7 +85,7 @@ export default function AboutPage() {
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold text-slate-900 mb-6">Our Values</h2>
             <p className="text-lg text-slate-600 max-w-2xl mx-auto">
-              These core principles guide everything we do at Hyperswap, from sourcing ingredients to serving our
+              These core principles guide everything we do at HyperLiquid, from sourcing ingredients to serving our
               guests.
             </p>
           </div>
@@ -160,7 +160,7 @@ export default function AboutPage() {
                 <p className="text-emerald-600 mb-3 font-medium">Restaurant Manager</p>
                 <p className="text-slate-600 text-sm">
                   Sarah ensures that every guest receives exceptional service and has a memorable dining experience at
-                  Hyperswap.
+                  HyperLiquid.
                 </p>
               </CardContent>
             </Card>

@@ -44,7 +44,7 @@ export default function ReservationPage() {
             </div>
             <h1 className="text-5xl font-bold text-slate-900 mb-6">Reserve Your Table</h1>
             <p className="text-xl text-slate-600 max-w-3xl mx-auto leading-relaxed">
-              Book your dining experience at Hyperswap and enjoy authentic Eastern cuisine in our elegant atmosphere. We
+              Book your dining experience at HyperLiquid and enjoy authentic Eastern cuisine in our elegant atmosphere. We
               look forward to welcoming you.
             </p>
           </div>
@@ -208,7 +208,7 @@ export default function ReservationPage() {
               </p>
             </div>
             <p className="text-sm text-slate-500 mt-6">
-              We'll call you to confirm your reservation. See you soon at Hyperswap!
+              We'll call you to confirm your reservation. See you soon at HyperLiquid!
             </p>
           </div>
         </DialogContent>

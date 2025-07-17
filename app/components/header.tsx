@@ -12,7 +12,7 @@ export default function Header() {
               <Image src="/favicon.ico" alt="Logo" width={32} height={32} />
             </div>
             <span className="text-3xl font-bold bg-gradient-to-r from-emerald-700 to-emerald-900 bg-clip-text text-transparent">
-              Hyperswap
+              HyperLiquid
             </span>
           </Link>
 

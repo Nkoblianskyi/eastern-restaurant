@@ -9,9 +9,9 @@ import CookieBanner from "./components/cookie-banner"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Hyperswap - Authentic Eastern Cuisine | Belgium",
+  title: "HyperLiquid - Authentic Eastern Cuisine | Belgium",
   description: "Experience the finest Eastern cuisine in Belgium. Traditional flavors, modern ambiance.",
-    generator: 'v0.dev'
+
 }
 
 export default function RootLayout({

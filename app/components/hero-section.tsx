@@ -7,7 +7,7 @@ export default function HeroSection() {
   return (
     <section className="relative min-h-screen flex items-center justify-center bg-gradient-to-br from-slate-50 via-white to-emerald-50">
       {/* Background Pattern */}
-      <div className="absolute inset-0 opacity-5">
+      <div className="absolute inset-0 opacity-5 -z-10">
         <div
           className="absolute inset-0"
           style={{
@@ -19,17 +19,17 @@ export default function HeroSection() {
 
       <div className="container mx-auto px-4 grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
         {/* Left Content */}
-        <div className="space-y-8">
+        <div className="space-y-8 relative z-10">
           <div className="space-y-4">
             <div className="inline-flex items-center px-4 py-2 bg-emerald-100 text-emerald-800 rounded-full text-sm font-medium">
               <Award className="w-4 h-4 mr-2" />
-              Authentic Eastern Cuisine Since 2018
+              Authentic Eastern Cuisine Since 2025
             </div>
 
             <h1 className="text-5xl lg:text-7xl font-bold text-slate-900 leading-tight">
               <span className="block">Welcome to</span>
               <span className="bg-gradient-to-r from-emerald-600 to-emerald-800 bg-clip-text text-transparent">
-                Hyperswap
+                HyperLiquid
               </span>
             </h1>
 
@@ -39,7 +39,7 @@ export default function HeroSection() {
             </p>
           </div>
 
-          <div className="flex flex-col sm:flex-row gap-4">
+          <div className="flex flex-col sm:flex-row gap-4 relative z-10">
             <Button
               asChild
               size="lg"
