@@ -150,7 +150,7 @@ export default function MenuPage() {
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-2xl mx-auto">
               <div className="text-center">
                 <div className="text-3xl font-bold text-emerald-600 mb-2">{mockMenuData.appetizers.length}</div>
-                <div className="text-sm text-slate-500 uppercase tracking-wide">Appetizers & Starters</div>
+                <div className="text-sm text-slate-500 uppercase ">Appetizers & Starters</div>
               </div>
               <div className="text-center">
                 <div className="text-3xl font-bold text-emerald-600 mb-2">{mockMenuData.mains.length}</div>
@@ -166,7 +166,7 @@ export default function MenuPage() {
       </section>
 
       {/* Menu Navigation */}
-      <section className="py-12 bg-slate-50 sticky top-20 z-40 border-b border-slate-200">
+      <section className="py-4 bg-slate-50 sticky top-20 z-40 border-b border-slate-200">
         <div className="container mx-auto px-4">
           <div className="flex justify-center space-x-8">
             {categories.map((category) => (
